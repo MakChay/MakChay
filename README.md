@@ -30,19 +30,19 @@ I love building **web apps**, **multiplayer games**, and platforms that solve re
 - [**Pluto Dev Project**](https://github.com/ChayMakwara/Pluto-Dev) - Weekly progress updates for a full-stack application, showcasing iterative development and reflections.  
 - [**Basketball Live Stats App**](https://github.com/ChayMakwara/Basketball-Live-Stats) - Real-time sports stats tracking using React and Firebase.
 
-> More projects available in my [GitHub repositories](https://github.com/ChayMakwara?tab=repositories).
+> More projects available in my [GitHub repositories](https://github.com/MakChay?tab=repositories).
 
 ---
 
 ## 📈 GitHub Stats
 
-![Chay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChayMakwara&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChayMakwara&layout=compact&theme=radical)
+![Chay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MakChay&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MakChay&layout=compact&theme=radical)
 
 > **Recent Contributions:**  
 > You can dynamically show your recent commits using the `activity` widget:
 > ```markdown
-> ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ChayMakwara&theme=react-dark)
+> ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MakChay&theme=react-dark)
 > ```
 
 ---
@@ -50,7 +50,7 @@ I love building **web apps**, **multiplayer games**, and platforms that solve re
 ## 📬 Connect with Me
 
 - LinkedIn: [linkedin.com/in/ChayMakwara](https://www.linkedin.com/in/ChayMakwara/)  
-- Email: chay@example.com  
+- Email: makwarac@yahoo.com  
 
 ---
 
