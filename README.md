@@ -1,10 +1,3 @@
-# Hi there 👋, I'm Chay Makwara
-
-**Full-Stack Developer** | **AI Enthusiast** | **Community Innovator**  
-Based in Durban, South Africa
-
----
-
 ## 🚀 About Me
 
 I'm passionate about building impactful web applications and exploring the intersection of technology and community development. Currently, I'm focused on:
@@ -45,8 +38,8 @@ I'm passionate about building impactful web applications and exploring the inter
 
 ## 📬 Connect with Me
 
-- LinkedIn: [linkedin.com/in/ChayMakwara](https://www.linkedin.com/in/ChayMakwara/)
-- Email: chay@example.com
+- LinkedIn: [linkedin.com/in/ChayMakwara](www.linkedin.com/in/charlene-makwara-2417972b1)
+- Email: makwarac@yahoo.com
 
 ---
 
